@@ -90,3 +90,9 @@ h2 {
 	border-image: linear-gradient(rgba(230, 46, 14, 0.889), rgb(255, 38, 0));
 	border-image-slice: 1;
 }
+
+.footer-section {
+	text-align: center;
+	margin-top: 8%;
+	color: rgba(148, 144, 144, 0.827);
+}
